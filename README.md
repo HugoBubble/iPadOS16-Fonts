@@ -1,4 +1,4 @@
-# (Updated Guide from u/"1ajnoob"?) customize your iPadOS 16 lockscreen similar to iOS 16.
+# (Updated Tutorial from u/"1ajnoob"?) customize your iPadOS 16 lockscreen similar to iOS 16.
 
 # ⚠️ WARNING: If you do not know what you are doing, PLEASE don’t try this.
 
@@ -51,7 +51,7 @@ Now your lockscreen should have  your new font, If you’d like other styles, yo
 
 Resources:
 
-https://www.reddit.com/r/jailbreak/comments/1ajnoob/ts_required_how_to_customize_your_ipados_16
+OG Tutorial: https://www.reddit.com/r/jailbreak/comments/1ajnoob/ts_required_how_to_customize_your_ipados_16
 
 TrollStore: https://ios.cfw.guide/installing-trollstore/
 
