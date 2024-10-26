@@ -32,7 +32,8 @@ Click on “0”.
 ![alt text](https://github.com/HugoBubble/iPadOS16-Fonts/blob/main/IMG_1332.jpeg)
 
 5 - Where you see the Clipboard icon (in the bottom left corner), click it and press “Paste”
-Click “Replace” (THIS IS VERY IMPORTANT, DO NOT FUCK THIS UP)
+Click “Replace” 
+(THIS IS VERY IMPORTANT, DO NOT FUCK THIS UP)
 
 ![alt text](https://github.com/HugoBubble/iPadOS16-Fonts/blob/main/IMG_1333.jpeg)
 
