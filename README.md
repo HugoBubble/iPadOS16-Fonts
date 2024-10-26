@@ -16,7 +16,7 @@ Can’t hold the lockscreen to customize it
 # Steps:
 
 1
-Download one of Fonts on my Repo(
+Download one of Fonts on my Repo
 
 ![alt text](https://github.com/HugoBubble/iPadOS16-Fonts/blob/main/Fonts.jpeg)
 
@@ -58,9 +58,12 @@ Now your lockscreen should have  your new font, If you’d like other styles, yo
 ![alt text](https://github.com/HugoBubble/iPadOS16-Fonts/blob/main/IMG_1336.png)
 
 Resources:
-https://www.reddit.com/r/jailbreak/comments/1ajnoob/ts_required_how_to_customize_your_ipados_16/
+
+https://www.reddit.com/r/jailbreak/comments/1ajnoob/ts_required_how_to_customize_your_ipados_16
+
 TrollStore: https://ios.cfw.guide/installing-trollstore/
+
 Filza: https://www.tigisoftware.com/default/?p=439
+
 Dopamine: https://ellekit.space/Dopamine
 
-)
