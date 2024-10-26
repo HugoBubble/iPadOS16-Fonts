@@ -53,9 +53,9 @@ Resources:
 
 OG Tutorial: https://www.reddit.com/r/jailbreak/comments/1ajnoob/ts_required_how_to_customize_your_ipados_16
 
-TrollStore: https://ios.cfw.guide/installing-trollstore/
+TrollStore: https://ios.cfw.guide/installing-trollstore
 
 Filza: https://www.tigisoftware.com/default/?p=439
 
-Dopamine: https://ellekit.space/Dopamine
+Dopamine: https://ios.cfw.guide/installing-dopamine
 
