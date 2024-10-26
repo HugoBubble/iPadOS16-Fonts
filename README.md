@@ -7,11 +7,10 @@ You will need:
 An iPad on iPadOS 16.0 to 16.6.1
 TrollStore
 Filza
-Respring using Trollstore or (semi)Jailbreak
+Respring using Trollstore or Jailbreak including Semi-Jailbreaks
 
 Limitations:
-No widget customization
-Can’t hold the lockscreen to customize it
+No widget customization and Can’t hold the lockscreen to customize it
 
 # Steps:
 
